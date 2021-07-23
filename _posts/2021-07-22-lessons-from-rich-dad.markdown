@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Lessons from Rich Dad Poor Dad & The Cashflow Quadrant"
-date:   2021-07-22 21:07:00 +0530
+title: "Lessons from Rich Dad Poor Dad & The Cashflow Quadrant"
+comments: true
+date: 2021-07-22 21:07:00 +0530
 categories: jekyll update
 ---
 
@@ -72,7 +73,11 @@ categories: jekyll update
 2. The key is to take action. Learning, educating yourself is important, but you also must start doing.
 3. Have well-defined goals for the next one year and 5 years. E.g. I want my passive income to be increased by _____ after this year. Or I want to have assets in real estate, stocks in next 5 years.
 
+<br/>
+<br/>
+<br/>
 
+{% include disqus.html %}
 
 
 

@@ -175,3 +175,9 @@ Now for a moment imagine your life being treated like that cow you drink milk fr
 I would conclude this writeup by this thought that deep down we all know the truth. There’s hardly anything you didn’t know already that I’ve said above. But we conveniently choose to remain ignorant — because Ignorance is bliss. We avoid looking at the truth because it makes us feel miserable and guilty and demands giving up things we are used to doing, while what we should actually do, is take charge and be the change — because every single one of us makes a difference.
 
 Thank you for reading. Now next time when you order that cheese burst pizza or an ice cream bucket, just take a moment to think what are the implications and whether it is what you would really like to do!
+
+<br/>
+<br/>
+<br/>
+
+{% include disqus.html %}
