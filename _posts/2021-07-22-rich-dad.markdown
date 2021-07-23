@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Learnings from Rich Dad Poor Dad & Cashflow Quadrant"
+title:  "Lessons from Rich Dad Poor Dad & The Cashflow Quadrant"
 date:   2021-07-22 21:07:00 +0530
 categories: jekyll update
 ---
 
 **Money**
 
-1. Money is important, and more important is to learn to handle it. People who preach that money is not everything and its evil are foolish, because the same people work their asses off their whole life to earn it.
-2. Money is important it can buy many things but most importantly it buys you freedom of your own time.
+1. Money is important, and more important is to learn to handle it. People who preach that money is not everything and that it's evil are foolish, because the same people will work their asses off their whole life to earn it.
+2. Money is important it can buy many things, but most importantly it buys you freedom of your own time.
 3. Money is a game, it’s fun if you know the rules, you can play it well.
 
 <br/>
 
 **Pay checks and being an Employee**
 
-1. Pay checks are addictive. Once you get used to earn money that way, it’s hard to move away, but it’s necessary.
+1. Pay checks are addictive. Once you get used to earning money that way, it’s hard to move away, but it’s necessary.
 2. Don’t take a job for a pay check, take it to learn a skill. 
 3. Job security, pension plans are traps and cages restricting you from achieving true financial freedom.
 4. Don’t work for money, let money work for you.
@@ -26,14 +26,14 @@ categories: jekyll update
 **Failures and Disappointments**
 1. Be ready to fail, for it will teach you the things you must know for success. But more importantly learn those lessons from those failures.
 2. Be prepared for disappointments. Like we say with each problem there comes an opportunity, same is with disappointments. Inside every disappointment lies a priceless gem of wisdom. Turn your disappointment into an asset instead of a liability.
-3. Be kind to yourself. Don’t beat up yourself for the mistakes you have done, learn from them.
+3. Be kind to yourself. Don’t beat yourself up for the mistakes you have done, learn from them.
 4. Be true to yourself.
 
 <br/>
 
 **Debt**
 1. Paying off your debts is the first step to becoming financially free.
-2. Debt is not always bad. There are good debts and bad debts. When you are paying yourself for your debt, it’s a bad one. When you make others pay it, it’s a good debt.  E.g. Buying an apartment on debt and making the tenants pay for it. The net will eventually show up in your asset column.
+2. Debt is not always bad. There are good debts and bad debts. When you are paying yourself for your debt, it’s a bad one. When you make others pay for it, it’s a good debt.  E.g. Buying an apartment on debt and making the tenants pay for it. The net will eventually show up in your asset column.
 3. If you are buying those cars, houses on debt, it’s not smart. Don’t fool yourself by looking rich, the idea is to be one. Your financial statement should reflect that - more assets than liabilities.
 
 <br/>
@@ -60,7 +60,7 @@ categories: jekyll update
 1. Have financial advisors - for they know a lot more than you do.
 2. Pay your financial advisors well - if you pay them well and keep them happy - it will do wonders in your investments.
 3. Your investors are only as smart as you. They can advise you only as much as you are financially educated.
-4. Changing quadrants from E (employee) to B (business) or I (investor) is not just a switch in what you do. It’s a much bigger change in what you are. It’s an emotional and psychological and mental switch. It will take time but you can do it.
+4. Changing quadrants from E (employee) to B (business) or I (investor) is not just a switch in what you do. It’s a much bigger change in what you are. It’s an emotional and psychological and mental switch. It'll take time, but you can do it.
 5. Your house is not an asset. It can be an asset or a liability depending on where on your balance sheet does it show up. If its adding money to your pocket, only then it’s an asset, it’s a liability otherwise.
 6. The rich don’t pay taxes, they have their ways to legally exempt from taxes. They get [income - expenses and then taxes]. Where as for employees it is [income - taxes and then expenses]. It makes a huge difference.
 7. Every time you add a liability in your balance sheet, you are adding an asset in someone else’s. You are making someone else rich.
