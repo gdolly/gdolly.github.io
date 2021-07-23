@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "About veganism"
+title:  "About Veganism"
 date:   2021-07-22 20:18:00 +0530
 categories: jekyll update
 ---
 
 I follow Veganism and I get this particular question “Why are you vegan?” so often that I thought why not write about it and educate people.
 
-For those wondering what veganism is, here’s a quick wikipedia definition — **“***a way of living that attempts to exclude all forms of animal exploitation and cruelty***”**. 
+For those wondering what veganism is, here’s a quick wikipedia definition — *“a way of living that attempts to exclude all forms of animal exploitation and cruelty”*. 
 
 Most people when they think about veganism, they think it’s just about food. While food is a big part of it, but there’s a lot more to it. Being vegan is a lifestyle choice, it includes everything from your soap, face wash, face creams to your clothes, wallets and even your investments, basically everything.
 
@@ -21,7 +21,7 @@ The blog follows a conversational pattern, more like an FAQ. So, let’s start.
 
 ***Why are you vegan?***
 
-I chose vegan because I realised that I was **demanding **for killing and torture of animals for a piece of food on my plate. And I realised that a life is not that worthless — it shouldn’t be.
+I chose vegan because I realised that I was **demanding** for killing and torture of animals for a piece of food on my plate. And I realised that a life is not that worthless — it shouldn’t be.
 
 <br/>
 
@@ -33,13 +33,13 @@ Yeah, I used to love having non-vegetarian food for all these years, but once I 
 
 ***What triggered this thought? / What motivated you to take this big step?***
 
-My martial art trainer, Binu Sensei *(Sensei in Japanese means teacher) *is vegan and through him I got to know about veganism. And since I was curious about it having never known about veganism before, he recommended me to read a book *Heads and Tails — by Maneka Gandhi. *So the book and several follow up discussions with my Sensei made me realise that I have a choice to make a difference. And I’m really grateful to him for introducing me to veganism and helping me be a bit more compassionate.
+My martial art trainer, Binu Sensei *(Sensei in Japanese means teacher)* is vegan and through him I got to know about veganism. And since I was curious about it having never known about veganism before, he recommended me to read a book *Heads and Tails — by Maneka Gandhi*. So the book and several follow up discussions with my Sensei made me realise that I have a choice to make a difference. And I’m really grateful to him for introducing me to veganism and helping me be a bit more compassionate.
 
 <br/>
 
 ***But plants have life too? It’s just that they can’t express pain like animals do?***
 
-This boils down to a purely scientific question — *Can plants feel pain? *And the answer is we don’t know for sure but most biologists would say they don’t because plants do not have pain receptors or a nervous system or a brain to process emotions like pain.
+This boils down to a purely scientific question — *Can plants feel pain?* And the answer is we don’t know for sure but most biologists would say they don’t because plants do not have pain receptors or a nervous system or a brain to process emotions like pain.
 
 On the other hand, animals, we certainly know do feel pain. So…
 
@@ -172,6 +172,6 @@ Now for a moment imagine your life being treated like that cow you drink milk fr
 
 <br/>
 
-I would conclude this writeup by this thought that deep down we all know the truth. There’s hardly anything you didn’t know already that I’ve said above. But we conveniently choose to remain ignorant — because Ignorance is bliss. We avoid looking at the truth because it makes us feel miserable and guilty and demands giving up things we are used to doing, while what we should actually do, is take charge and be a change — because every single one of us makes a difference.
+I would conclude this writeup by this thought that deep down we all know the truth. There’s hardly anything you didn’t know already that I’ve said above. But we conveniently choose to remain ignorant — because Ignorance is bliss. We avoid looking at the truth because it makes us feel miserable and guilty and demands giving up things we are used to doing, while what we should actually do, is take charge and be the change — because every single one of us makes a difference.
 
 Thank you for reading. Now next time when you order that cheese burst pizza or an ice cream bucket, just take a moment to think what are the implications and whether it is what you would really like to do!
