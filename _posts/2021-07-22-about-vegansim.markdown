@@ -43,8 +43,6 @@ This boils down to a purely scientific question — *Can plants feel pain?* And 
 
 On the other hand, animals, we certainly know do feel pain. So…
 
-More on this, here — [https://www.peta.org/features/do-plants-feel-pain/](https://www.peta.org/features/do-plants-feel-pain/)
-
 <br/>
 
 ***It must be hard to follow veganism in India?***
@@ -83,15 +81,15 @@ This is something I realised late. It’s not about how accurately you follow. I
 
 Not really. Like I said before, most food on my plate everyday has always been vegan. And I was not a milk fan anyway and I think nobody is. So it boils down to tea, curd and occasional ice creams/cakes that I’ve given up.
 
-I drink soya milk though as a substitute to cow’s milk, which kind of gives me needed B12 and calcium.
+I drink soya milk (which is usually fortified with B12) as a substitute to cow’s milk, which kind of gives me the needed B12 and calcium.
 
 <br/>
 
 ***Your bones will get weaker? How would you manage pregnancy, et ?***
 
-Even though I don’t quite like this question, for the sake of answering, I really don’t think my bones are getting any weaker at all.  I do martial arts and I think I’m quite fit. But this is what we are made to think, we have become victims of the advertisement of the dairy industry. In fact a lot of cancers and other diseases that are trending these days are caused because of milk and the adulterations they do in order to keep it fresh.
+Even though I don’t quite like this question, for the sake of answering, I really don’t think my bones are getting any weaker at all.  I do martial arts and I think I’m quite fit. But this is what we are made to think, we have become victims of the advertisement by the dairy industry. In fact a lot of cancers and other diseases that are trending these days are caused because of milk and the adulterations they do in order to keep it fresh.
 
-A lot of top athletes like Serena Williams follow vegan diet too and it has only improved their game. You can watch the documentary *The Game Changers* if you are interested to see how.
+A lot of top athletes like Novak Djokovic, Serena Williams follow vegan diet too, and it has only improved their game. You can watch the documentary *The Game Changers* if you are interested to see how.
 
 <br/>
 
@@ -99,7 +97,7 @@ A lot of top athletes like Serena Williams follow vegan diet too and it has only
 
 I usually get this question from people who do not understand the demand-supply chain. Even if one person doesn’t eat animals/dairy, it reduces the demand by a small percentage which means saving a few lives (from torture and murder), so that’s enough for me to get going.
 
-But in practise, the difference is more. Because when I gave up — my family started ordering less of it, and my friends avoid ordering when I’m with them. Not because I make faces when they order — because I don’t ;) it just becomes easy to go with a common order. So I’m winning more than I expected. Plus, few of my friends got educated and influenced about it and are reconsidering their choices. Also I get a bonus when someone talks to me about it and gets inspired or at least educated.
+But in practice, the difference is more. Because when I gave up — my family started ordering less of it, and my friends avoid ordering when I’m with them. Not because I make faces when they order — because I don’t ;) it just becomes easy to go with a common order. So I’m winning more than I anticipated. Plus, few of my friends got influenced and are reconsidering their choices. And I get a bonus when someone talks to me about it and gets inspired or at least educated.
 
 <br/>
 
@@ -123,9 +121,12 @@ We humans are smart, we can easily find kinder and better alternatives which can
 
 Deep thought, but No. These philosophical questions can’t justify all the tortures and murdering. Whatever pain is, I won’t like it if what we do to a cow is done to me or someone I love. Then if I make the cow go through it, how would I justify it to myself?
 
+Checkout this [Oscars speech](https://youtu.be/qiiWdTz_MNc?t=102) by Joaquin Phoenix where he talks about fighting against the belief that one nation, one people, one
+race, one gender or one species has the right to dominate and control another.
+
 <br/>
 
-***Ye sub ammero k chonchle hai — (rough translation — These things are that rich do for time pass)***
+***Ye sub ammero k chonchle hai — (roughly translated to — These things are that the rich do for time pass)***
 
 This was said by a friend and colleague in a playful way, which a vegan could find offensive, but a part of it is fairly true. Ethics and morals kind of come with privilege. People who are going through a survival crisis, which a lot of India does, this might not be the battle they would like to fight.
 
@@ -158,13 +159,13 @@ My heart wrenches when I hear news like these -
 
 It wrenches my heart when I see goats tied on a Bakra-Eid, and I feel helpless and sad when I look into their eyes — aren’t they as much of a life as you and I are. And this is not just Islam. Hindus too, we are such hypocrites, we say, *“Gaay hamari mata hai” (cows are our mothers)* and then get the same cow raped over and over again to get her milk. Only a murderous psychotic moron would do something like this to her mother. I’m sure other religions too, Christians, Jews — none of us are behind in being cruel and inhuman. Even the word inhuman is a wrong word for compassion — given what we have been doing throughout our history. Watch this [video](https://www.youtube.com/watch?v=kbS1VJyonuA) to see what I mean.
 
-We use millions of rats, monkeys, squirrels for our scientific experiments. Grow farms of cows, chickens, pigs and all sorts of animals for people to consume. Fishing and getting other seafood like prawns, squids, etc — we don’t even realise when we are talking about lives when we talk about meat or seafood. Sometimes I wish there were no butchers so that people who want to eat should cut the animals themselves and then let’s see how many of us still want to eat it.
+We use millions of rats, monkeys, squirrels for our scientific experiments. Grow farms of cows, chickens, pigs and all sorts of animals for people to consume. Fishing and getting other seafood like prawns, squids, etc — we don’t even realise when we are talking about lives when we talk about meat or seafood. Sometimes I wish there were no butchers so that we should have to cut the animals ourselves in order to eat them and then let’s see how many of us still want to eat it.
 
 People say it’s a food pyramid, lions have to eat deers. That’s how life works. Sure, it does work like that. But what we humans do is systematic torture of the animals. Their whole lives revolve around getting born for us, being dumped in small cages where they can hardly move, and if they are lucky -finally getting killed.
 
 Only for a year we have been asked to be indoors to control the Covid-19 outbreak, we feel caged, and helpless. People are getting depressed, committing suicides, and a ton of psychological issues. And by the way, we are still a lot free to move where we want.
 
-Now for a moment imagine your life being treated like that cow you drink milk from, or that chicken you ate that day. And tell me if you were to be one of those animals, would you justify someone’s reasons for your life and suffering that way.
+Now for a moment imagine your life to be treated like that cow you drink milk from, or that chicken you ate that day. And tell me if you were to be one of those animals, would you justify someone’s reasons for your life and suffering that way.
 
 <br/>
 
@@ -174,7 +175,7 @@ Now for a moment imagine your life being treated like that cow you drink milk fr
 
 I would conclude this writeup by this thought that deep down we all know the truth. There’s hardly anything you didn’t know already that I’ve said above. But we conveniently choose to remain ignorant — because Ignorance is bliss. We avoid looking at the truth because it makes us feel miserable and guilty and demands giving up things we are used to doing, while what we should actually do, is take charge and be the change — because every single one of us makes a difference.
 
-Thank you for reading. Now next time when you order that cheese burst pizza or an ice cream bucket, just take a moment to think what are the implications and whether it is what you would really like to do!
+Thank you for reading. Now next time when you order that cheese burst pizza, or an ice cream bucket, just take a moment to think what are the implications and whether it is what you would really like to do!
 
 <br/>
 <br/>
