@@ -1,7 +1,4 @@
-
-# The 3 Cs of Ukemi (in Aikido)
-
-I’ve been practising Aikido for a few years now. This blog is about a few core concepts I think are fundamental to attacking in Aikido.
+I'm a student of Aikido. This blog is about a few core concepts I think are fundamental to attacking in Aikido.
 
 Aikido is a non-violent Japanese martial art for self-defence. Aikido in Japanese means the way of combining energy, where
 
@@ -81,6 +78,9 @@ There are 2 reasons why I feel it’s important to connect.
 
 **Note:** when I say connect properly, I don’t mean grab the hand tightly or squeeze it. Even a slight touch of uke’s palm with nage’s wrist is pretty good. We have to sense what the nage is doing and react to it, that’s what I mean when I say connect.
 
+<br/>
+<br/>
+
 **2. Continuity**
 
 By continuity, I mean following the attack. At every single point throughout the technique, as uke,
@@ -94,6 +94,9 @@ Let’s imagine that nage did an irimi in response to the first strike. What nex
 At that point the nage doesn’t have much to work with. Unless the uke continues to attack,
 either a strike or moving towards nage, facing the nage. Which gives nage a threat to deal with,
 a reason to continue the technique.
+
+<br/>
+<br/>
 
 **3. Caution**.
 
