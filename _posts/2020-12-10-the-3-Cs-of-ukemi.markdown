@@ -18,7 +18,11 @@ Aikido aims at both physical and mental fitness and taking on opponents with cal
 This is done by applying various techniques that harmonize with the opponent,
 break their balance and use their energy, instead of applying muscular power or resistance.
 
+<br/>
+
 ---
+
+<br/>
 
 This blog is to share my learnings around Ukemi that I’m trying to imbibe in my own practice.
 
@@ -39,7 +43,11 @@ The 3 Cs stand for -
 
 * Caution
 
+<br/>
+
 ---
+
+<br/>
 
 **1. Connection**
 
@@ -103,7 +111,11 @@ Or sometimes one would step ahead showing their back to nage to show that the te
 
 Better ukemi for this could be to go low on knees instead of bending back, keeping eyes continuously on the nage and waiting for an opportunity to come up again.
 
- — -
+<br/>
+
+---
+
+<br/>
 
 Glossary:
 
@@ -127,7 +139,11 @@ Ikkyo: first technique of aikido
 
 Kokyo-ho: another technique in aikido, which starts with an entry and ends with throwing the attacker
 
- — -
+<br/>
+
+---
+
+<br/>
 
 That’s all about the 3 Cs.
 
@@ -143,10 +159,17 @@ The secret ingredient for the above 2 as we talked above, is again a C — Commi
 
 3. Caution — safe and mindful ukemi
 
- — -
+
+<br/>
+<br/>
 
 Thank you for reading.
 
 Happy rolling... :)
 
+<br/>
+<br/>
+<br/>
 
+
+{% include disqus.html %}
