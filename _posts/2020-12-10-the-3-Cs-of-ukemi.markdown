@@ -117,27 +117,27 @@ Better ukemi for this could be to go low on knees instead of bending back, keepi
 
 <br/>
 
-Glossary:
+**Glossary**
 
-Uke: attacker
+*Uke: attacker*
 
-Nage: a person who is defending
+*Nage: a person who is defending*
 
-Sensei: teacher
+*Sensei: teacher*
 
-Shomenuchi: head strike
+*Shomenuchi: head strike*
 
-Katatedori: wrist grab
+*Katatedori: wrist grab*
 
-Irimi: entry
+*Irimi: entry*
 
-Atemi: attack, often done by nage as a defense to distract the uke
+*Atemi: attack, often done by nage as a defense to distract the uke*
 
-Tenkan: turn
+*Tenkan: turn*
 
-Ikkyo: first technique of aikido
+*Ikkyo: first technique of aikido*
 
-Kokyo-ho: another technique in aikido, which starts with an entry and ends with throwing the attacker
+*Kokyo-ho: another technique in aikido, which starts with an entry and ends with throwing the attacker*
 
 <br/>
 
