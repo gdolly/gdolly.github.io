@@ -2,7 +2,7 @@
 layout: post
 title: "Trunk based development"
 comments: true
-date: 2021-07-22 21:07:00 +0530
+date: 2023-08-13 00:00:00 +0530
 categories: jekyll update
 ---
 
